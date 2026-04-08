@@ -1,6 +1,6 @@
 ### Olá! Sou o Joaquim Eliseu 👋
 
-Estudante de Ciência da Computação e desenvolvedor em formação, focado em **desenvolvimento Web Moderno**,
+Estudante de Ciência da Computação e desenvolvedor em formação, focado em **desenvolvimento web moderno**,
 **arquitectura de software** e **ciência  de dados**.
 
 ## 🎯 Objectivo Pessoal
