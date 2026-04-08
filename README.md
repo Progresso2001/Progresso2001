@@ -1,16 +1,46 @@
-## Hi there 👋
+### Olá! Sou o Joaquim Eliseu 👋
 
-<!--
-**Progresso2001/Progresso2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação e desenvolvedor em formação, focado em **desenvolvimento Web Moderno**,
+**arquitectura de software** e **ciência  de dados**.
 
-Here are some ideas to get you started:
+## 🎯 Objectivo Pessoal
+Tornar me um **desenvolvedor full-stack sênior**, com forte base em **arquitectura de sistemas escalaveis** e **analise de dados**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Trabalhar em projectos de **grande impacto**, usando **Python** e **Node.js** e **frameworks modernos** 
+para construir APIs e aplicações web  robustas.
+
+-Aplicar **ciência  de dados** para tomar decisões baseadas em dados, desde analise exploratória, 
+até modelos simples de machine learning.
+
+-Atua em **ambientes nacionais e internacionais** (remoto ou no exterior), colaborando com times diversificados 
+e contribuindo em projectos open-source e solução de software de alto nível. 
+
+## 💻 Tecnologias principais
+<div display: "inline">
+  <div gap:"80px">
+    <img width="50", height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img width="50", height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img width="50", height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img width="50", height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+    <img width="50", height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img width="50", height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+          
+  </div>
+</div> 
+
+## 🛠 Ferramentas que uso
+<div display: "inline">
+  <img width="50", height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+  <img width="50", height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img width="50", height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" />
+  <img width="50", height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+  <img width="50", height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+</div>
+
+
+Melhorando minhas skills de **ciência  de dados** e me preparando para oportunidades internacionais em tecnologia.
+
+
+          
+
+
