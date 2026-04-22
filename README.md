@@ -17,7 +17,6 @@ e contribuindo em projectos open-source e solução de software de alto nível.
 
 ## 💻 Tecnologias principais
 <div display: "inline">
-  <div gap:"80px">
     <img width="50", height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img width="50", height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     <img width="50", height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
