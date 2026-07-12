@@ -50,7 +50,7 @@ Melhorando minhas skills de **ciência  de dados** e me preparando para oportuni
   <a href="https://www.instagram.com/joaquimeliseumenianga/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://web.telegram.org/a/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
