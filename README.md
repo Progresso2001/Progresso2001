@@ -15,6 +15,8 @@ até modelos simples de machine learning.
 -Atua em **ambientes nacionais e internacionais** (remoto ou no exterior), colaborando com times diversificados 
 e contribuindo em projectos open-source e solução de software de alto nível. 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Progresso2001&show_icons=true&theme=radical)
+
 ## 💻 Tecnologias principais
 <div display: "inline_block"><br>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
