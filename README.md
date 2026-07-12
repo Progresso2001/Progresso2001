@@ -55,6 +55,14 @@ Melhorando minhas skills de **ciência  de dados** e me preparando para oportuni
   </a>
 </div>
 
+##
+<div  display="flex" align="center">
+
+<img align="center" width="400" height="250" alt="Image" src="https://github.com/user-attachments/assets/9d553159-f0a2-42b2-a95d-24294fb4ee45" />
+<img align="center" width="400" height="250" alt="Image" src="https://github.com/user-attachments/assets/b2bfd997-4864-4e2c-9de6-3f3702786b9d" />
+    
+</div>
+
 
           
 
